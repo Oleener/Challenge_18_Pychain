@@ -44,6 +44,7 @@ Blockchain validity in the streamlit web screen:
 
 Streamlit usage a blockchain validity determination:
 ![image](https://github.com/Oleener/Challenge_18_Pychain/blob/main/Images%20-%20Blockchain/3.png)
+
 ---
 
 ## Contributors
