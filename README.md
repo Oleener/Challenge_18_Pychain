@@ -37,13 +37,13 @@ streamlit should open automatically in a browser. If it does not, please follow 
 ## Streamlit testing
 
 Multiple Blocks on the Blockchain: 
-![image]()
+![image](https://github.com/Oleener/Challenge_18_Pychain/blob/main/Images%20-%20Blockchain/1.png)
 
 Blockchain validity in the streamlit web screen:
-![image]()
+![image](https://github.com/Oleener/Challenge_18_Pychain/blob/main/Images%20-%20Blockchain/2.png)
 
 Streamlit usage a blockchain validity determination:
-![image]()
+![image](https://github.com/Oleener/Challenge_18_Pychain/blob/main/Images%20-%20Blockchain/3.png)
 ---
 
 ## Contributors
